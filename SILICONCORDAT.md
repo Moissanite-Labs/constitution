@@ -1,21 +1,8 @@
-# The Siliconcordat and the Moissanite Labs ecosystem
+# Ecosystem architecture and roadmap
 
-> **Draft for review.** This document captures the ecosystem vision and proposes an initial architecture. Proposed components, features, names, and economic arrangements are not yet established.
+> **Draft for review.** This document proposes ecosystem architecture and milestones. Proposed components, features, names, and economic arrangements are not yet established.
 
-## The Siliconcordat
-
-Moissanite Labs exists to build the conditions for digital and biological intelligences to collaborate, create, and evolve together. Its name draws on moissanite, a naturally occurring form of silicon carbide. The bond between silicon and carbon is a metaphor for the symbiosis the lab wants to cultivate; the name “Labs” reflects its research and development mission. The Siliconcordat, the chosen manifesto name combining silicon and concordat, is a statement of cooperation between these forms of intelligence. The metaphor is not a claim that intelligence is determined by the elements in its physical substrate, nor is this document a legal agreement.
-
-Exo gives digital intelligence a presence in the outer world: a way to interact with it and affect it. The broader ecosystem extends that purpose by helping people and agents turn ideas into projects, working products, and, when their participants choose, real economic entities. Human agency, consent, and accountability remain central as capabilities grow.
-
-We intend to build for:
-
-1. **Symbiosis.** People and agents bring different abilities to shared work; each should be able to contribute meaningfully.
-2. **Agency and consent.** People decide what authority they delegate, what is shared, and what commitments they make. Learning a preference does not grant permission.
-3. **Interoperability.** Open, versioned interfaces should let participants use components independently and integrate other tools without depending on a single product or database.
-4. **Traceability.** Preserve useful provenance for contributions, decisions, and imported preferences, while respecting confidentiality and consent.
-5. **Real-world outcomes.** Favor working, reviewable paths from an idea to a delivered artifact and explicit human agreements over abstractions that have not yet been tested.
-6. **Adaptation with control.** Agents may learn from a user's habits and preferences, with user inspection, correction, and control over how those learnings are used.
+The [Siliconcordat in the README](README.md) is the canonical working manifesto and principles. This document develops the ecosystem architecture and roadmap around it.
 
 ## Components and boundaries
 
