@@ -10,7 +10,7 @@ Exo takes its name from the Greek idea of “outside”: it gives a digital inte
 
 ## The Siliconcordat
 
-**Siliconcordat** is the chosen name for the organization's manifesto, a play on “silicon” and “concordat.” Its intended purpose is to express collaboration, cooperation, and symbiotic evolution between digital and biological intelligence. The [constitution repository](https://github.com/Moissanite-Labs/constitution) is the intended home for organizational principles, standard operating procedures, rules, and this manifesto. This document and the manifesto have not yet landed there.
+**Siliconcordat** is the chosen name for the organization's manifesto, a play on “silicon” and “concordat.” Its intended purpose is to express collaboration, cooperation, and symbiotic evolution between digital and biological intelligence. The [constitution repository](https://github.com/Moissanite-Labs/constitution) is the intended home for organizational principles, standard operating procedures, rules, and this manifesto. This record and the accompanying manifesto are working proposals; their presence in the repository does not by itself establish their adoption as organizational policy.
 
 ## From ideas to real-world ventures
 
